@@ -15,5 +15,6 @@ public class HelloGit {
         System.out.println("我是master");
         System.out.println("我是dev");
         System.out.println("我是合并");
+        System.out.println("我是更新");
     }
 }
