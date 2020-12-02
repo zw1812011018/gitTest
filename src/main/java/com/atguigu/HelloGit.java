@@ -13,5 +13,7 @@ public class HelloGit {
         System.out.println("hello git4");
         System.out.println("分支");
         System.out.println("我是master");
+        System.out.println("我是dev");
+        System.out.println("我是合并");
     }
 }
