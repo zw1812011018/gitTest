@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("hello git3");
         System.out.println("hello git4");
         System.out.println("分支");
+        System.out.println("我是dev");
     }
 }
